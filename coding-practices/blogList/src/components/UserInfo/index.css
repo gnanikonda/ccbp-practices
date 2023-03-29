@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+
+.userInfoclass {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileImg {
+  width: 100px;
+  border-radius: 50px;
+}
+p {
+  margin-top: 0;
+}

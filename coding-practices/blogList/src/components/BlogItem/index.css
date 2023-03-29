@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.title-date {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

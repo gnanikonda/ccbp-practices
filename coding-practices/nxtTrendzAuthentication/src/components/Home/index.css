@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.homemaindiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+.logoutdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.loginclass1 {
+  width: 100px;
+}
+
+.backicon {
+  width: 20px;
+}
+
+@media all and (min-width: 992px) {
+  .backicon {
+    display: none;
+  }
+}
+
+.clothesWeardiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.clothesImg {
+  width: 200px;
+}
+
+.clothesdesc {
+  color: #64748b;
+  text-align: center;
+}
+
+@media all and (min-width: 992px) {
+  .clothsHeading {
+    order: 0;
+  }
+  .clothesdesc {
+    order: 1;
+  }
+  .clothesImg {
+    order: 2;
+  }
+}
+
+.shopBtn {
+  background-color: #0b69ff;
+  border: none;
+  outline: none;
+  border-radius: 12px;
+  width: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: beige;
+  font-size: 18px;
+  margin-top: 20px;
+}

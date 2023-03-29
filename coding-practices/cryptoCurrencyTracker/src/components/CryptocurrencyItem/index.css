@@ -1,0 +1,26 @@
+.liclass1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.logodiv {
+  display: flex;
+  align-items: center;
+}
+.logoImg {
+  width: 30px;
+  margin-right: 5px;
+}
+.america {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+}
+/* .usd1 {
+  margin-right: 50px;
+} */

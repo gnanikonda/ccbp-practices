@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.homediv {
+  padding-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeimage {
+  width: 200px;
+}

@@ -1,0 +1,30 @@
+.eventsdiv {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.eventsitemdiv {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+  background-color: #475569;
+}
+.ulclass {
+  list-style: none;
+  padding-left: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.activediv {
+  display: flex;
+  width: 40%;
+  height: 100vh;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+}

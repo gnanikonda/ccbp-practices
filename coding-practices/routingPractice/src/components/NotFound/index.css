@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.notfounddiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notfoundclass {
+  width: 200px;
+}

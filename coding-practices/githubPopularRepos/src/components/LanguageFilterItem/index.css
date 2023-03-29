@@ -1,0 +1,20 @@
+.liclass1 {
+  margin: 10px;
+  list-style: none;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.btnclass {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 5px;
+}
+.activeclass {
+  border: 2px solid blue;
+  background-color: transparent;
+  color: blue;
+  border-radius: 8px;
+  padding: 5px;
+}

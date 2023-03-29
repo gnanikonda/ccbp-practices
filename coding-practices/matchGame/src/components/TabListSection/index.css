@@ -1,0 +1,24 @@
+.liclass {
+  font-family: roboto;
+  margin-left: 10px;
+}
+.btnclass {
+  background-color: transparent;
+  color: #ffffff;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.lipara {
+  font-size: 20px;
+  font-family: roboto;
+  font-weight: 500;
+}
+.activeTab {
+  border: 0px;
+  border-bottom: 2px solid #fec653;
+  background-color: transparent;
+  cursor: pointer;
+  color: #fec653;
+  outline: none;
+}

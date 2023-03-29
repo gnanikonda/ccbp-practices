@@ -1,0 +1,10 @@
+.contactdiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactclass {
+  width: 200px;
+}

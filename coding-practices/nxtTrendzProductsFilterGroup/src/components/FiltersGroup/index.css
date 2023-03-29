@@ -1,0 +1,70 @@
+.filters-group-container {
+  margin-top: 16px;
+  padding-top: 13px;
+}
+
+@media screen and (min-width: 768px) {
+  .filters-group-container {
+    width: 30%;
+    max-width: 350px;
+    margin-top: 48px;
+    flex-shrink: 0;
+  }
+}
+
+.searchDiv {
+  background-color: #64748b;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+}
+.searchInput {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  width: 80%;
+}
+
+.searchicon {
+  width: 10px;
+}
+/* Write your CSS here */
+.ullistclass {
+  list-style: none;
+  padding-left: 0px;
+  margin-top: 5px;
+}
+.itemsdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+h1 {
+  font-size: 18px;
+  margin-top: 24px;
+}
+.ratinguldiv {
+  padding-left: 0px;
+}
+.ratinglistclass {
+  display: flex;
+  margin-right: auto;
+  align-items: center;
+  cursor: pointer;
+}
+.ratingimg {
+  max-width: 152px;
+  height: 20px;
+}
+.clearBtn {
+  background-color: transparent;
+  border: 2px solid blue;
+  border-radius: 10px;
+  padding: 10px;
+  color: blue;
+}
+.categorylistclass {
+  cursor: pointer;
+}

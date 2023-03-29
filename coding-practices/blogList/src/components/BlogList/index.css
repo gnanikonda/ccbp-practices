@@ -1,0 +1,8 @@
+.ulclass {
+  width: 100%;
+  list-style: none;
+  padding-left: 0;
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
